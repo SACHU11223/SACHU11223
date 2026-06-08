@@ -1,24 +1,41 @@
-# Hi, I'm Sachin Sharma 👋
+<h1 align="center">Hi 👋, I'm Sachin Sharma</h1>
 
-### AI & Machine Learning Student | Python Automation Developer | Building Intelligent Systems
+<h3 align="center">
+AI & Machine Learning Student • Python Automation Developer • Building Intelligent Systems
+</h3>
 
-I am a B.Tech student specializing in Artificial Intelligence & Machine Learning with a strong passion for building intelligent automation systems, AI-powered applications, and productivity-focused solutions.
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, and Automation.<br>
+I enjoy building intelligent systems that automate repetitive tasks, improve productivity, and solve real-world problems.
+</p>
 
-My primary focus is on combining Python, Machine Learning, and Automation to solve real-world problems through smart workflows and intelligent software. I enjoy creating systems that reduce manual effort, improve efficiency, and automate complex tasks.
-
-Currently, I am strengthening my foundations in Machine Learning while exploring Generative AI, LLMs, AI Agents, LangChain, and Retrieval-Augmented Generation (RAG).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SACHU11223&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech in Artificial Intelligence & Machine Learning
-* 💡 Passionate about AI, Automation, and Intelligent Systems
-* 🐍 Strong interest in Python-based development and automation
-* 🤖 Exploring Machine Learning, Generative AI, and AI Agents
-* ⚙️ Building automation tools to improve productivity and workflows
-* 📚 Continuously learning modern AI technologies and frameworks
-* 🎯 Goal: Become an AI Engineer focused on real-world intelligent systems
+* 🎓 B.Tech Student in Artificial Intelligence & Machine Learning
+* 🤖 Passionate about AI, Machine Learning, and Intelligent Automation
+* 🐍 Python Developer focused on Automation & Problem Solving
+* 🔭 Currently building **NIVEDITA AI Voice Assistant** (Prototype)
+* 🌱 Currently learning **Machine Learning, AI Agents, RAG, and Generative AI**
+* ⚙️ Interested in AI Automation, Workflow Intelligence, and Smart Systems
+* 🎯 Goal: Become an AI Automation & Generative AI Engineer
+* 💡 I enjoy transforming repetitive workflows into intelligent automated solutions
+
+---
+
+## 🔭 Current Focus
+
+* Building AI-powered automation systems
+* Strengthening Machine Learning fundamentals
+* Exploring AI Agents and Multi-Agent Architectures
+* Learning Retrieval-Augmented Generation (RAG)
+* Developing real-world AI projects
+* Improving system automation and productivity tools
 
 ---
 
@@ -26,12 +43,15 @@ Currently, I am strengthening my foundations in Machine Learning while exploring
 
 ### Programming Languages
 
-* Python
-* SQL
-* JavaScript
-* TypeScript
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,mysql" />
+</p>
 
 ### Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 * NumPy
 * Pandas
@@ -40,110 +60,114 @@ Currently, I am strengthening my foundations in Machine Learning while exploring
 
 ### Automation & Development
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 * Selenium
 * PyAutoGUI
 * REST APIs
 * Web Scraping
+* Automation Scripting
 
-### Databases
+### Database
 
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Streamlit
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 OrchestrAI – Autonomous Enterprise Workflow Management System
+### 🎙️ NIVEDITA – AI Voice Assistant (Prototype)
 
-Multi-Agent AI powered enterprise workflow automation platform designed to act as an AI Manager.
+An automation-focused AI voice assistant designed to perform system operations using natural voice commands.
 
-**Key Features**
+#### Features
 
-* Meeting analysis automation
-* Task assignment workflows
-* Deadline tracking
-* Employee feedback analysis
-* Intelligent workflow orchestration
+* Voice Command Processing
+* Application Control
+* Browser Automation
+* File Management
+* System Task Execution
+* Real-Time Information Retrieval
 
 **Tech Stack**
-Python • AI Agents • Automation • Workflow Management
+
+Python • Selenium • PyAutoGUI • Speech Recognition • REST APIs
 
 ---
 
-### 🎙️ NIVEDITA – AI Voice Assistant (Prototype)
+### 🤖 OrchestrAI – Autonomous Enterprise Workflow Management System
 
-An intelligent voice-based assistant focused on automating system operations and daily productivity tasks.
+A Multi-Agent AI powered workflow automation system designed to act as an AI Manager.
 
-**Features**
+#### Features
 
-* Voice command processing
-* Application control
-* Browser automation
-* File management
-* System task execution
-* Real-time information retrieval
+* Meeting Analysis
+* Task Assignment
+* Workflow Automation
+* Deadline Tracking
+* Intelligent Decision Support
 
 **Tech Stack**
-Python • Selenium • PyAutoGUI • Speech Recognition • APIs
+
+Python • AI Workflows • Automation
 
 ---
 
 ### 💼 AI Hiring Chatbot
 
-AI-powered recruitment assistant that dynamically generates technical interview questions based on selected technologies.
+AI-powered recruitment assistant that dynamically screens candidates and generates technical questions.
 
-**Features**
+#### Features
 
-* Dynamic question generation
-* Candidate screening
-* Technical assessment workflow
-* AI-powered interactions
+* Candidate Screening
+* Dynamic Technical Questions
+* AI-Based Evaluation Workflow
+* Interactive User Experience
 
 **Tech Stack**
+
 Python • Streamlit • Gemini API
 
 ---
 
 ### 📊 System File Analyzer
 
-A real-time desktop dashboard for analyzing storage usage and file distribution.
+A real-time Python dashboard for analyzing disk usage and file distribution.
 
-**Features**
+#### Features
 
-* Disk usage analytics
-* Extension-wise analysis
-* Folder-level insights
-* Interactive visualization dashboard
+* Folder Analysis
+* Disk Usage Insights
+* Extension-Wise Statistics
+* Interactive Visualizations
 
 **Tech Stack**
+
 Python • Tkinter • Matplotlib
 
 ---
 
-## 📈 Current Learning Roadmap
+## 📚 Learning Roadmap
 
-### Machine Learning
+### Current Learning
 
-* Supervised Learning
-* Unsupervised Learning
+* Machine Learning
+* Data Analysis
 * Model Evaluation
 * Feature Engineering
 
-### Generative AI
+### Next Learning Targets
 
-* Large Language Models (LLMs)
-* Prompt Engineering
+* Generative AI
+* AI Agents
 * LangChain
 * RAG Systems
-* AI Agents
 * Vector Databases
+* LLM Applications
 
 ### Future Technologies
 
@@ -160,14 +184,15 @@ Python • Tkinter • Matplotlib
 * Python for Beginners – Simplilearn
 * Python Project Bootcamp – LetsUpgrade
 * AWS Machine Learning Essentials
-* HackerRank Python Certificate
+* HackerRank Python Basics Certificate
 
 ---
 
-## 📊 Coding Profiles
+## 💻 Coding Profiles
 
-💻 HackerRank:
-https://www.hackerrank.com/profile/sachin_s9792
+### HackerRank
+
+🔗 https://www.hackerrank.com/profile/sachin_s9792
 
 Achievements:
 
@@ -177,27 +202,54 @@ Achievements:
 
 ---
 
-## 🌱 What I'm Working On
+## 📈 GitHub Statistics
 
-* Building NIVEDITA AI Voice Assistant
-* Advancing Machine Learning skills
-* Exploring Generative AI technologies
-* Learning AI Agents and RAG architectures
-* Developing intelligent automation solutions
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SACHU11223&show_icons=true&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SACHU11223&theme=tokyonight" />
+</p>
 
-## 📫 Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/sachin-sharma0904/
-
-GitHub:
-https://github.com/SACHU11223
-
-Email:
-[sachin.s735549@gmail.com](mailto:sachin.s9792@gmail.com)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SACHU11223&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### "Building intelligent systems that combine AI, automation, and practical problem-solving."
+## 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SACHU11223&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/SACHU11223" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/sachin-sharma0904" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+📧 Email: **[sachin.s735549@gmail.com](mailto:sachin.s9792@gmail.com)**
+
+📍 Uttar Pradesh, India
+
+---
+
+## 💭 Philosophy
+
+> "I believe the future belongs to intelligent systems that can understand, reason, and automate complex tasks. My goal is to build AI solutions that create real-world impact through automation and practical problem-solving."
+
+---
+
+<h3 align="center">
+Building Intelligent Systems with AI, Machine Learning & Automation 🚀
+</h3>
