@@ -238,7 +238,7 @@ Achievements:
 </a>
 </p>
 
-📧 Email: **[sachin.s735549@gmail.com](mailto:sachin.s9792@gmail.com)**
+📧 Email: **[sachin.s9792@gmail.com](mailto:sachin.s9792@gmail.com)**
 
 📍 Uttar Pradesh, India
 
